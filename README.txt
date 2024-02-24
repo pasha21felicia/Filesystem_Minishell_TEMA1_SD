@@ -1,3 +1,10 @@
+The goal of this theme is to implement a minimal file system with lots of
+operations associated with the CLI, very similar to those on the terminal of a UNIX system, to
+manipulate that file system. Its structure will be similar to that of a system
+UNIX-based, by dividing into files and directories, starting from the root directory [ ​ 0]
+The program reads the commands touch, mkdir, cd, ls, pwd, rm and rmdir until delete
+f.s.
+
 Filesystem Minishell Tema 1 - SD - DIGORI PARASCOVIA - 313CC
 
 Tema este incompleta ruleaza pe 65 de puncte doar.
